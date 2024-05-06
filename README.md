@@ -1,1 +1,1 @@
-﻿### Testing Enums and Traints repo
+﻿### Testing reusable enum validation in php
